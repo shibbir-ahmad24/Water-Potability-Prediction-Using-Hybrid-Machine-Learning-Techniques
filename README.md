@@ -1,3 +1,3 @@
-# Predictive Data Mining on Water Potability Using Machine Learning Techniques
+# Predictive Data Mining on Water Potability Using Machine Learning
 
 

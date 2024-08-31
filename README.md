@@ -5,7 +5,7 @@
 Access to safe drinking water is a fundamental human right, yet millions of people worldwide lack reliable access to potable water. Contaminated water poses significant health risks, leading to diseases and even death. Ensuring water safety requires robust predictive models to determine potability based on various chemical and physical properties of water. 
 
 # **Solution**
-The project aimed to develop a machine learning model that accurately predicts water potability. Multiple algorithms were employed, including Logistic Regression, Random Forest, LightGBM, K-Nearest Neighbors (KNN), and a custom Hybrid Model. The models were trained using historical water quality data and validated on test dataset to assess their performance.
+The project aimed to develop a hybrid machine learning model that accurately predicts water potability. Multiple algorithms were employed, including Logistic Regression, Random Forest, LightGBM, K-Nearest Neighbors (KNN), and a custom Hybrid Model. The models were trained using historical water quality data and validated on test dataset to assess their performance.
 
 # **Impact**
 The developed Hybrid Model achieved the highest accuracy, precision, recall, and F1-score, significantly improving water potability predictions. This model can be used by water safety authorities to assess the safety of drinking water and take preventive measures, thereby reducing the risk of waterborne diseases and enhancing public health.

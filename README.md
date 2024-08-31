@@ -44,18 +44,18 @@ The developed Hybrid Model achieved the highest accuracy, precision, recall, and
 ### **Analysis Visuals**
 [Include visualizations here: e.g., model performance comparison charts, feature importance plots]
 
-### **Comparative Analysis**
+# **Comparative Analysis**
 
-**Accuracy:**
+## **Accuracy:**
 The **Random Forest**, **LightGBM**, and **Hybrid Model** exhibit the highest accuracy (0.62), outperforming Logistic Regression (0.48) and KNN (0.51).
 
-# **Precision**
+## **Precision**
 The Hybrid Model leads in precision (0.62), slightly surpassing Random Forest (0.58) and LightGBM (0.59). Logistic Regression and KNN trail behind with 0.46 and 0.48, respectively.
 
 ## **Recall**
 The **Hybrid Model** achieves the highest recall (0.62), matching **Random Forest** and slightly exceeding **LightGBM** (0.60). **Logistic Regression** shows a higher recall (0.59) compared to **KNN** (0.47).
 
-### **F1-Score**
+## **F1-Score**
 The **Hybrid Model** has the highest F1-Score (0.62), followed by **Random Forest** and **LightGBM** (both 0.60). **Logistic Regression** and **KNN** score lower at 0.51 and 0.47, respectively.
 
 ### **Summary**

@@ -1,6 +1,6 @@
 # Water Potability Prediction Using Hybrid Machine Learning Techniques
 
-### **Problem**
+# **Problem**
 Access to safe drinking water is a fundamental human right, yet millions of people worldwide lack reliable access to potable water. Contaminated water poses significant health risks, leading to diseases and even death. Ensuring water safety requires robust predictive models to determine potability based on various chemical and physical properties of water. 
 
 ### **Solution**
@@ -10,11 +10,11 @@ The project aimed to develop a machine learning model that accurately predicts w
 The developed Hybrid Model achieved the highest accuracy, precision, recall, and F1-score, significantly improving water potability predictions. This model can be used by water safety authorities to assess the safety of drinking water and take preventive measures, thereby reducing the risk of waterborne diseases and enhancing public health.
 
 ### **Technology Used**
-- **Python**
-- **Machine Learning**
-- **Numpy**
-- **Pandas**
-- **Scikit-learn**
+- Python
+- Machine Learning
+- Numpy
+- Pandas
+- Scikit-learn
 
 ### **Dataset**
 - **Dataset Link:** [Link to Dataset](#)

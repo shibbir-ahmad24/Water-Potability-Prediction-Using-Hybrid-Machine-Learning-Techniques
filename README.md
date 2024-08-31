@@ -45,30 +45,17 @@ The developed Hybrid Model achieved the highest accuracy, precision, recall, and
 [Include visualizations here: e.g., model performance comparison charts, feature importance plots]
 
 ### **Comparative Analysis**
-1. **Accuracy**:
-   - Random Forest, LightGBM, and Hybrid Model: **0.62**
-   - Logistic Regression: **0.48**
-   - KNN: **0.51**
 
-2. **Precision**:
-   - Hybrid Model: **0.62**
-   - LightGBM: **0.59**
-   - Random Forest: **0.58**
-   - Logistic Regression: **0.46**
-   - KNN: **0.48**
-
-3. **Recall**:
-   - Hybrid Model and Random Forest: **0.62**
-   - LightGBM: **0.60**
-   - Logistic Regression: **0.59**
-   - KNN: **0.47**
-
-4. **F1-Score**:
-   - Hybrid Model: **0.62**
-   - LightGBM and Random Forest: **0.60**
-   - Logistic Regression: **0.51**
-   - KNN: **0.47**
+1.	**Accuracy:**
+-	The **Random Forest**, **LightGBM**, and **Hybrid Model** exhibit the highest accuracy (0.62), outperforming Logistic Regression (0.48) and KNN (0.51).
+2.	**Precision**
+-	The Hybrid Model leads in precision (0.62), slightly surpassing Random Forest (0.58) and LightGBM (0.59). Logistic Regression and KNN trail behind with 0.46 and 0.48, respectively.
+3.	**Recall**
+-	The **Hybrid Model** achieves the highest recall (0.62), matching **Random Forest** and slightly exceeding **LightGBM** (0.60). **Logistic Regression** shows a higher recall (0.59) compared to **KNN** (0.47).
+4.	**F1-Score**
+-	The **Hybrid Model** has the highest F1-Score (0.62), followed by **Random Forest** and **LightGBM** (both 0.60). **Logistic Regression** and **KNN** score lower at 0.51 and 0.47, respectively.
 
 ### **Summary**
-The Hybrid Model demonstrated superior performance across all evaluated metrics, with Random Forest and LightGBM also performing well. Logistic Regression and KNN lagged in comparison, particularly in terms of accuracy, precision, and F1-score. The Hybrid Model's robust performance suggests its potential for real-world applications in water quality assessment and safety assurance.
+
+-	The **Hybrid Model** outperforms other models across all metrics, closely followed by **Random Forest** and **LightGBM**. **Logistic Regression** and **KNN** underperform in comparison, particularly in terms of accuracy, precision and F1-Score.
 

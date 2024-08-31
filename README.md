@@ -6,7 +6,7 @@
 Access to safe drinking water is a fundamental human right, yet millions of people worldwide lack reliable access to potable water. Contaminated water poses significant health risks, leading to diseases and even death. Ensuring water safety requires robust predictive models to determine potability based on various chemical and physical properties of water. 
 
 # **Solution**
-The project aimed to develop a hybrid machine learning model that accurately predicts water potability. Multiple algorithms were employed, including Logistic Regression, Random Forest, LightGBM, K-Nearest Neighbors (KNN), and a custom Hybrid Model. The models were trained using historical water quality data and validated on test dataset to assess their performance.
+The project aimed to develop a hybrid machine learning model that accurately predicts water potability. Multiple algorithms were employed, including Logistic Regression, Random Forest, LightGBM, K-Nearest Neighbors (KNN), and a custom Hybrid Model (Random Forest + LightGBM). The models were trained using historical water quality data and validated on test dataset to assess their performance.
 
 # **Impact**
 The developed Hybrid Model achieved the highest accuracy, precision, recall, and F1-score, significantly improving water potability predictions. This model can be used by water safety authorities to assess the safety of drinking water and take preventive measures, thereby reducing the risk of waterborne diseases and enhancing public health.
@@ -67,4 +67,4 @@ The **Hybrid Model** achieves the highest recall (0.62), matching **Random Fores
 The **Hybrid Model** has the highest F1-Score (0.62), followed by **Random Forest** and **LightGBM** (both 0.60). **Logistic Regression** and **KNN** score lower at 0.51 and 0.47, respectively.
 
 # **Summary**
-The **Hybrid Model** outperforms other models across all performance metrics, closely followed by **Random Forest** and **LightGBM**. **Logistic Regression** and **KNN** underperform in comparison, particularly in terms of accuracy, precision and F1-Score. The **Hybrid Model**'s robust performance suggests its potential for real-world applications in water quality assessment and safety assurance.
+The **Hybrid Model** (Random Forest + LightGBM) outperforms other models across all performance metrics, closely followed by **Random Forest** and **LightGBM**. **Logistic Regression** and **KNN** underperform in comparison, particularly in terms of accuracy, precision and F1-Score. The **Hybrid Model**'s robust performance suggests its potential for real-world applications in water quality assessment and safety assurance.

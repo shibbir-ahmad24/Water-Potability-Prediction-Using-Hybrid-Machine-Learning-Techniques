@@ -35,8 +35,9 @@ The developed Hybrid Model achieved the highest accuracy, precision, recall, and
 - **Data Load**: Imported the dataset into Python using Pandas.
 - **EDA (Exploratory Data Analysis)**: Analyzed the dataset for missing values, and feature distributions.
 - **Data Cleaning**: Handled missing values, ensuring data quality.
-- **Data Sampling**: Split the dataset into training and testing sets.
+- **Data Sampling**: Applied random undersampling to balance the classes in the dataset.
 - **Normalization**: Scaled the feature data to improve model performance.
+- **Data Splitting**: Split the dataset into training and testing sets.
 - **Model Training**: Trained multiple machine learning models on the training dataset.
 - **Model Testing**: Evaluated the models on the testing dataset using various performance metrics.
 - **Comparative Result Analysis**: Compared the models based on accuracy, precision, recall, and F1-score.

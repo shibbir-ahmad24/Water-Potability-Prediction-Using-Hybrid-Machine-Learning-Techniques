@@ -1,5 +1,5 @@
 # Water Potability Prediction Using Hybrid Machine Learning Techniques
-[img1](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img1.jpg)
+![img1](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img1.jpg)
 
 # **Problem**
 Access to safe drinking water is a fundamental human right, yet millions of people worldwide lack reliable access to potable water. Contaminated water poses significant health risks, leading to diseases and even death. Ensuring water safety requires robust predictive models to determine potability based on various chemical and physical properties of water. 

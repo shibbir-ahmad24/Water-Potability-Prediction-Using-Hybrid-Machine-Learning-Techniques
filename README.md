@@ -1,4 +1,4 @@
-**Project Documentation: Water Potability Prediction Using Hybrid Machine Learning Techniques**
+## **Project Documentation: Water Potability Prediction Using Hybrid Machine Learning Techniques**
 
 ---
 

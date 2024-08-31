@@ -67,4 +67,4 @@ The **Hybrid Model** achieves the highest recall (0.62), matching **Random Fores
 The **Hybrid Model** has the highest F1-Score (0.62), followed by **Random Forest** and **LightGBM** (both 0.60). **Logistic Regression** and **KNN** score lower at 0.51 and 0.47, respectively.
 
 # **Summary**
-The **Hybrid Model** (Random Forest + LightGBM) outperforms other models across all performance metrics, closely followed by **Random Forest** and **LightGBM**. **Logistic Regression** and **KNN** underperform in comparison, particularly in terms of accuracy, precision and F1-Score. The **Hybrid Model**'s robust performance suggests its potential for real-world applications in water quality assessment and safety assurance.
+The **Hybrid Model** outperforms other models across all performance metrics, closely followed by **Random Forest** and **LightGBM**. **Logistic Regression** and **KNN** underperform in comparison, particularly in terms of accuracy, precision and F1-Score. The **Hybrid Model**'s robust performance suggests its potential for real-world applications in water quality assessment and safety assurance.

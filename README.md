@@ -18,7 +18,7 @@ The developed Hybrid Model achieved the highest accuracy, precision, recall, and
 - Scikit-learn
 
 # **Dataset**
-- **Dataset Link:** [Link to Dataset](#)
+- **Dataset Link:** [link](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 - **Features Description:**
   1. **pH**: pH of water (0 to 14).
   2. **Hardness**: Capacity of water to precipitate soap in mg/L.

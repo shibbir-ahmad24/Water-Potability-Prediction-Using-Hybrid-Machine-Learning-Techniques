@@ -45,7 +45,13 @@ The developed Hybrid Model achieved the highest accuracy, precision, recall, and
 - **Summary**: Highlighted the best-performing model and discussed its potential applications.
 
 # **Analysis Visuals**
-[Include visualizations here: e.g., model performance comparison charts, feature importance plots]
+![img2](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img2.PNG)
+![img4](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img4.png)
+![img5](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img5.PNG)
+![img8](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img8.png)
+![img9](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img9.png)
+![img10](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img10.png)
+![img11](https://github.com/shibbir282/Predictive-Data-Mining-on-Water-Potability/blob/main/Visuals/img11.png)
 
 # **Comparative Results Analysis**
 ### **Accuracy:**
